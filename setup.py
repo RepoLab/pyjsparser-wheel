@@ -12,4 +12,4 @@ setup(
     license='MIT',
     author='Piotr Dabkowski',
     author_email='piodrus@gmail.com',
-    description='Fast javascript parser (based on esprima.js)')
+    description='Fast javascript parser based on esprima.js')
