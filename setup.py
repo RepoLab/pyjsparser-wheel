@@ -4,7 +4,7 @@ except ImportError:
     from distutils.core import setup
 
 setup(
-    name='pyjsparser',
+    name='pyjsparser-wheel',
     version='2.7.1',
     packages=['pyjsparser'],
     url='https://github.com/PiotrDabkowski/pyjsparser',
