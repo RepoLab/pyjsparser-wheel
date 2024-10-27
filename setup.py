@@ -12,4 +12,5 @@ setup(
     license='MIT',
     author='Piotr Dabkowski',
     author_email='piodrus@gmail.com',
-    description='Fast javascript parser based on esprima.js')
+    description='Fast javascript parser (based on esprima.js)',
+    long_description='Fork of https://github.com/PiotrDabkowski/pyjsparser to provide built wheel distribution')
